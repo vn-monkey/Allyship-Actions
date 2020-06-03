@@ -24,6 +24,7 @@ Everything here is all the resources I found on people's Instagram and some Goog
 - [Unicorn Riot](https://unicornriot.ninja/)
 
 
+
 ### Bay Area Charities 
 - [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/?fbclid=IwAR1jZFGRWN-LYu9iqIuj8Ebn7u4pY-nPWlv3FpMq1q48kvd09DSsSQ7qGME)
 - [BAOBOB](baobobdirectory.com): google sheet of black owned businesses to help support 
@@ -33,6 +34,7 @@ Everything here is all the resources I found on people's Instagram and some Goog
 - [Community Ready Corps (CRC)](http://www.crc4sd.org/)
 - [Oakland Indie Alliance](http://www.oaklandindiealliance.com/)
 - [Peoples Breakfast Oakland](https://linktr.ee/PBO)
+ 
  
 
 ### LA Charities
@@ -53,6 +55,7 @@ Everything here is all the resources I found on people's Instagram and some Goog
 - Text JUSTICE to 66-8336
 - Text ENOUGH to 55-165
 - Leave a message for Louisville Mayor and demand justice for Breonna Taylor 502-574-2003
+
 
 ### Petitions to Sign
 - [#Defund the Police - BLM](https://blacklivesmatter.com/defundthepolice/)
@@ -87,6 +90,7 @@ Everything here is all the resources I found on people's Instagram and some Goog
 
 More pages and descriptions can be found [here](https://parade.com/1045757/stephanieosmanski/anti-racist-instagram-accounts-to-follow/)
 
+
 ## Books
 - [Barracoon: The Story of the Last "Black Cargo" - Zora Neale Hurston](https://www.amazon.com/Barracoon-Story-Last-Black-Cargo/dp/0062748203)
 - [Beloved - Toni Morrison](https://www.amazon.com/Beloved-Toni-Morrison/dp/1400033411)
@@ -97,6 +101,7 @@ More pages and descriptions can be found [here](https://parade.com/1045757/steph
 - [The New Jim Crow: Mass Incarceration in the Age of Colorblindness - Michelle Alexander](https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431)
 - [They Can't Kill Us All: Ferguson...- Wesley Lowery](https://www.amazon.com/They-Cant-Kill-All-Baltimore/dp/0316312479)
 - [Why I'm No Longer Talking to White People About Race](https://www.amazon.com/Longer-Talking-White-People-About/dp/1635572959/ref=sr_1_1?crid=7HLC432RVXTU&dchild=1&keywords=why+i%27m+no+longer+talking+about+race&qid=1591154617&sprefix=why+i%27m+no+longer%2Caps%2C225&sr=8-1)
+
 
 
 ## Podcasts
