@@ -71,9 +71,9 @@ Everything here is all the resources I found on people's Instagram and some Goog
 
 
 
-### Educate Yourself
+## Educate Yourself
 
-## IG Pages to Follow
+### IG Pages to Follow
 - blklivesmatter
 - yourrightscamp: funded by the Kaep himself
 - colorofchange
@@ -91,7 +91,7 @@ Everything here is all the resources I found on people's Instagram and some Goog
 More pages and descriptions can be found [here](https://parade.com/1045757/stephanieosmanski/anti-racist-instagram-accounts-to-follow/)
 
 
-## Books
+### Books
 - [Barracoon: The Story of the Last "Black Cargo" - Zora Neale Hurston](https://www.amazon.com/Barracoon-Story-Last-Black-Cargo/dp/0062748203)
 - [Beloved - Toni Morrison](https://www.amazon.com/Beloved-Toni-Morrison/dp/1400033411)
 - [Between the World and Me - Ta-Nelhisi Coates](https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0451482212)
@@ -104,7 +104,7 @@ More pages and descriptions can be found [here](https://parade.com/1045757/steph
 
 
 
-## Podcasts
+### Podcasts
 - All My Relations
 - 1619
 - Lynching in America
