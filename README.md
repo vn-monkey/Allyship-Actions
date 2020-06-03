@@ -2,7 +2,7 @@
 
 I decided to make this to so it would be easier for people to find ways they can help. It's not much or pretty at all, but I hope it helps. 
 
-Everything here is all the resources I found on people's Instagram and some Googling. This obviously is not an exhaustive list, so please feel free to make any updates if you know how or just send/comment the link. 
+Everything here is all the resources I found on people's Instagram and some Googling. This obviously is not an exhaustive list, so please feel free to reach out if you want anything added. 
 
 
 ## Charities
