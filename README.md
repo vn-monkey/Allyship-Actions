@@ -5,11 +5,10 @@ I decided to make this to so it would be easier for people to find ways they can
 Everything here is all the resources I found on people's Instagram and some Googling. This obviously is not an exhaustive list, so please feel free to make any updates if you know how or just send/comment the link. 
 
 
-### Charities
+## Charities
 
-```markdown
-## General Organizations to Donate To
 
+### General Organizations to Donate To
 - [Bail Project](https://bailproject.org/)
 - [Black Lives Matter](https://blacklivesmatter.com/)
 - [Black Visions Collective](https://www.blackvisionsmn.org/)
@@ -25,8 +24,7 @@ Everything here is all the resources I found on people's Instagram and some Goog
 - [Unicorn Riot](https://unicornriot.ninja/)
 
 
-## Bay Area Charities 
-
+### Bay Area Charities 
 - [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/?fbclid=IwAR1jZFGRWN-LYu9iqIuj8Ebn7u4pY-nPWlv3FpMq1q48kvd09DSsSQ7qGME)
 - [BAOBOB](baobobdirectory.com): google sheet of black owned businesses to help support 
 - [Bay Area Black Owned Business Relief Fund](https://www.gofundme.com/f/bay-area-black-owned-business-relief-fund)
@@ -37,18 +35,17 @@ Everything here is all the resources I found on people's Instagram and some Goog
 - [Peoples Breakfast Oakland](https://linktr.ee/PBO)
  
 
-## LA Charities
-
+### LA Charities
 - [Alliance of Californians for Community Empowerment](https://www.acceaction.org/)
 - [Black Lives Matter L.A](https://www.blmla.org/)
-- [LA's Black Owned Restuarants](https://docs.google.com/spreadsheets/u/1/d/18w-0RBhwBBlXDN9kRV9DVSCAGSCjtHb9K0Pq2YBv18U/htmlview?usp=sharing&pru=AAABcpSt24I*-0SYI1CmpG2fbqBHxTBHKA: google sheet of black owned businesses in LA to help support
+- [LA's Black Owned Restuarants](https://docs.google.com/spreadsheets/u/1/d/18w-0RBhwBBlXDN9kRV9DVSCAGSCjtHb9K0Pq2YBv18U/htmlview?usp=sharing&pru=AAABcpSt24I*-0SYI1CmpG2fbqBHxTBHKA): google sheet of black owned businesses in LA to help support
 - [People's City Council Freedom Fund](https://www.gofundme.com/f/peoples-city-council-ticket-fund)
-'''
 
 
-### No $$$ Needed
 
-## Numbers to Call & Text (taken from them bucketlist IGs)
+## No $$$ Needed
+
+### Numbers to Call & Text (taken from them bucketlist IGs)
 - DA Mike Freeman 612-348-5550 and demand prosecution to:
        Derek Chauvin (Badge #1087)
        Tou Thoa (badge #7162)
@@ -57,7 +54,7 @@ Everything here is all the resources I found on people's Instagram and some Goog
 - Text ENOUGH to 55-165
 - Leave a message for Louisville Mayor and demand justice for Breonna Taylor 502-574-2003
 
-## Petitions to Sign
+### Petitions to Sign
 - [#Defund the Police - BLM](https://blacklivesmatter.com/defundthepolice/)
 - [Raise the Degree](https://www.change.org/p/minneapolis-district-attorney-raise-the-degree?recruiter=1098599238&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_abi&recruited_by_id=960efe90-a206-11ea-8907-8fc7af712ec3)
 - [Mandatory Life Sentence for Police Brutality](https://www.change.org/p/department-of-justice-mandatory-life-sentence-for-police-brutality)
@@ -73,7 +70,6 @@ Everything here is all the resources I found on people's Instagram and some Goog
 
 ### Educate Yourself
 
-'''
 ## IG Pages to Follow
 - blklivesmatter
 - yourrightscamp: funded by the Kaep himself
@@ -92,7 +88,6 @@ Everything here is all the resources I found on people's Instagram and some Goog
 More pages and descriptions can be found [here](https://parade.com/1045757/stephanieosmanski/anti-racist-instagram-accounts-to-follow/)
 
 ## Books
-
 - [Barracoon: The Story of the Last "Black Cargo" - Zora Neale Hurston](https://www.amazon.com/Barracoon-Story-Last-Black-Cargo/dp/0062748203)
 - [Beloved - Toni Morrison](https://www.amazon.com/Beloved-Toni-Morrison/dp/1400033411)
 - [Between the World and Me - Ta-Nelhisi Coates](https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0451482212)
@@ -115,7 +110,7 @@ More pages and descriptions can be found [here](https://parade.com/1045757/steph
 - Beyond Prisons
 - Ear Hustle
 - Radical Imagination
-'''
+
 
 
 
