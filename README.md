@@ -97,11 +97,11 @@ More pages and descriptions can be found [here](https://parade.com/1045757/steph
 - [Beloved - Toni Morrison](https://www.amazon.com/Beloved-Toni-Morrison/dp/1400033411)
 - [Between the World and Me - Ta-Nelhisi Coates](https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0451482212)
 - [Freedom Is A Constant Struggle](https://www.amazon.com/Freedom-Constant-Struggle-Palestine-Foundations/dp/1608465640/ref=sr_1_1?dchild=1&keywords=freedom+is+a+constant+struggle&qid=1591154610&sr=8-1)
--[Men We Reaped: A Memoir - Jesmyn Ward](https://www.amazon.com/Men-We-Reaped-Jesmyn-Ward/dp/1608197654/ref=sr_1_1?dchild=1&keywords=men+we+reaped&qid=1591154644&sr=8-1)
+- [Men We Reaped: A Memoir - Jesmyn Ward](https://www.amazon.com/Men-We-Reaped-Jesmyn-Ward/dp/1608197654/ref=sr_1_1?dchild=1&keywords=men+we+reaped&qid=1591154644&sr=8-1)
 - [The First Next Time - James Baldwin](https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X/ref=sr_1_1?dchild=1&keywords=the+fire+next+time&qid=1591154631&sr=8-1)
 - [The New Jim Crow: Mass Incarceration in the Age of Colorblindness - Michelle Alexander](https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431)
--[They Can't Kill Us All: Ferguson...- Wesley Lowery](https://www.amazon.com/They-Cant-Kill-All-Baltimore/dp/0316312479)
--[Why I'm No Longer Talking to White People About Race](https://www.amazon.com/Longer-Talking-White-People-About/dp/1635572959/ref=sr_1_1?crid=7HLC432RVXTU&dchild=1&keywords=why+i%27m+no+longer+talking+about+race&qid=1591154617&sprefix=why+i%27m+no+longer%2Caps%2C225&sr=8-1)
+- [They Can't Kill Us All: Ferguson...- Wesley Lowery](https://www.amazon.com/They-Cant-Kill-All-Baltimore/dp/0316312479)
+- [Why I'm No Longer Talking to White People About Race](https://www.amazon.com/Longer-Talking-White-People-About/dp/1635572959/ref=sr_1_1?crid=7HLC432RVXTU&dchild=1&keywords=why+i%27m+no+longer+talking+about+race&qid=1591154617&sprefix=why+i%27m+no+longer%2Caps%2C225&sr=8-1)
 
 
 ## Podcasts
