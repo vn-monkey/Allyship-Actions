@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+**"We who believe in freedom cannot rest until it comes" - Ella Baker**
 
-You can use the [editor on GitHub](https://github.com/vn-monkey/allyship_actions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I decided to make this to so it would be easier for people to find ways they can help. Everything here is all the resources I found on people's Instagram and some Googling. This obviously is not a comprehensive list, so please feel free to make any updates if you know how or just send/comment the link. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
