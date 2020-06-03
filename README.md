@@ -47,8 +47,8 @@ Everything here is all the resources I found on people's Instagram and some Goog
 
 ### Numbers to Call & Text (taken from them bucketlist IGs)
 - DA Mike Freeman 612-348-5550 and demand prosecution to:
-       Derek Chauvin (Badge #1087)
-       Tou Thoa (badge #7162)
+       - Derek Chauvin (Badge #1087)
+       - Tou Thoa (badge #7162)
 - Text FLOYD to 55-156
 - Text JUSTICE to 66-8336
 - Text ENOUGH to 55-165
