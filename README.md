@@ -71,6 +71,7 @@ Everything here is all the resources I found on people's Instagram and some Goog
 
 
 
+
 ## Educate Yourself
 
 ### IG Pages to Follow
